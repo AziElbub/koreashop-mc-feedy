@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+ <channel>
+  <title>Doprava – test (doplňkový zdroj, 28.10.2026)</title>
+  <item>
+   <g:id>692</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>1105</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>3273</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>3274</g:id>
+   <g:shipping></g:shipping>
+  </item>
+  <item>
+   <g:id>3275</g:id>
+   <g:shipping></g:shipping>
+  </item>
+ </channel>
+</rss>
