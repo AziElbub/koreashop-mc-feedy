@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
  <channel>
-  <title>Doprava – nastavení účtu MC (doplňkový zdroj, 2026-10-31)</title>
+  <title>Doprava – nastavení účtu MC (doplňkový zdroj, 2026-11-09)</title>
   <item>
    <g:id>593</g:id>
    <g:shipping>
@@ -10,6 +10,12 @@
   </item>
   <item>
    <g:id>692</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>693</g:id>
    <g:shipping>
     <g:country>CZ</g:country>
    </g:shipping>
@@ -844,6 +850,12 @@
   </item>
   <item>
    <g:id>4499</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>4509</g:id>
    <g:shipping>
     <g:country>CZ</g:country>
    </g:shipping>
@@ -4576,6 +4588,12 @@
   </item>
   <item>
    <g:id>6032</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6033</g:id>
    <g:shipping>
     <g:country>CZ</g:country>
    </g:shipping>
@@ -8511,6 +8529,12 @@
    </g:shipping>
   </item>
   <item>
+   <g:id>6708</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
    <g:id>6709</g:id>
    <g:shipping>
     <g:country>CZ</g:country>
@@ -8679,6 +8703,132 @@
    </g:shipping>
   </item>
   <item>
+   <g:id>6737</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6738</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6739</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6740</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6741</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6742</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6743</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6744</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6745</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6746</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6747</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6748</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6749</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6750</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6751</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6752</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6753</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6754</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6755</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6756</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6757</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
    <g:id>6758</g:id>
    <g:shipping>
     <g:country>CZ</g:country>
@@ -8740,6 +8890,12 @@
   </item>
   <item>
    <g:id>6773</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6774</g:id>
    <g:shipping>
     <g:country>CZ</g:country>
    </g:shipping>
