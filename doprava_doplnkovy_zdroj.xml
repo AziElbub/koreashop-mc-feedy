@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
  <channel>
-  <title>Doprava – nastavení účtu MC (doplňkový zdroj, 2026-11-12)</title>
+  <title>Doprava – nastavení účtu MC (doplňkový zdroj, 2026-11-13)</title>
   <item>
    <g:id>593</g:id>
    <g:shipping>
@@ -3399,6 +3399,12 @@
    </g:shipping>
   </item>
   <item>
+   <g:id>5799</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
    <g:id>5800</g:id>
    <g:shipping>
     <g:country>CZ</g:country>
@@ -3898,6 +3904,12 @@
   </item>
   <item>
    <g:id>5890</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>5891</g:id>
    <g:shipping>
     <g:country>CZ</g:country>
    </g:shipping>
@@ -8841,7 +8853,37 @@
    </g:shipping>
   </item>
   <item>
+   <g:id>6759</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6760</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6761</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6762</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
    <g:id>6763</g:id>
+   <g:shipping>
+    <g:country>CZ</g:country>
+   </g:shipping>
+  </item>
+  <item>
+   <g:id>6764</g:id>
    <g:shipping>
     <g:country>CZ</g:country>
    </g:shipping>
